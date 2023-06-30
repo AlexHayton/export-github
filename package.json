@@ -24,6 +24,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.0",
+    "bluebird": "^3.7.2",
     "cpr": "^3.0.1",
     "handlebars": "^4.7.3",
     "marked": "^1.1.0",
@@ -32,7 +33,6 @@
     "run-parallel": "^1.1.6",
     "yargs": "^15.3.1"
   },
-  "devDependencies": {},
   "bugs": {
     "url": "https://github.com/jiapantw/export-github-issues/issues"
   },
